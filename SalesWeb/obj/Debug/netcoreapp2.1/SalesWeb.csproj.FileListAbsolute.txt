@@ -34,4 +34,4 @@ C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\V
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.g.cshtml.cs
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.g.cshtml.cs
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs
-C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csprojAssemblyReference.cache
+C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.g.cshtml.cs
