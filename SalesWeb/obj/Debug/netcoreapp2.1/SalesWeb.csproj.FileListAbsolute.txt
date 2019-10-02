@@ -38,3 +38,4 @@ C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWe
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.CopyComplete
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.g.cshtml.cs
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.g.cshtml.cs
+C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.g.cshtml.cs
