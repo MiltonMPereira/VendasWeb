@@ -1,8 +1,3 @@
-C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.CoreCompileInputs.cache
-C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.RazorAssemblyInfo.cache
-C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.RazorAssemblyInfo.cs
-C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.AssemblyInfoInputs.cache
-C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.AssemblyInfo.cs
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.deps.json
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.runtimeconfig.json
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.runtimeconfig.dev.json
@@ -10,6 +5,11 @@ C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWe
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.pdb
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.Views.dll
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.Views.pdb
+C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.CoreCompileInputs.cache
+C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.RazorAssemblyInfo.cache
+C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.RazorAssemblyInfo.cs
+C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.AssemblyInfoInputs.cache
+C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.AssemblyInfo.cs
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.TagHelpers.input.cache
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.TagHelpers.output.cache
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.RazorCoreGenerate.cache
@@ -23,6 +23,9 @@ C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\V
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.g.cshtml.cs
+C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.g.cshtml.cs
+C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.g.cshtml.cs
+C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.g.cshtml.cs
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.g.cshtml.cs
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
@@ -36,6 +39,4 @@ C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWe
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.dll
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.pdb
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.CopyComplete
-C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.g.cshtml.cs
-C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.g.cshtml.cs
-C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.g.cshtml.cs
+C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csprojAssemblyReference.cache
