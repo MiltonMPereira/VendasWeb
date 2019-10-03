@@ -39,3 +39,4 @@ C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWe
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.dll
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.pdb
 C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.CopyComplete
+C:\Users\2353\Downloads\estudo\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csprojAssemblyReference.cache
